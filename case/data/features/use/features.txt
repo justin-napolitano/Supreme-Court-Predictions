@@ -1,0 +1,17 @@
+issue
+issueArea
+naturalCourt
+petitioner
+petitionerState
+respondent
+jurisdiction
+adminAction
+adminActionState
+threeJudgeFdc
+caseOrigin
+caseOriginState
+respondentState
+caseSource
+caseSourceState
+lawType
+lawSupp
