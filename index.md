@@ -19,6 +19,12 @@ seoSecondaryKeywords:
   - judicial decision prediction
   - Segal and Spaeth dataset
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a machine learning project involving data processing, modeling, and
+  interpretability focused on predictive analysis of Supreme Court decisions, fitting well into the
+  'Datascience' family which covers data analysis projects and scientific workflows.
 ---
 
 # Supreme Court Predictions: Technical Overview
@@ -76,3 +82,4 @@ Both tasks use structured datasets derived from the Segal and Spaeth data, which
 ## Summary
 
 This repository serves as a foundation for applying machine learning to judicial prediction problems. It combines data preprocessing, model building, and interpretability tools in Python. Future work should focus on completing implementation details, adding evaluation metrics, and improving documentation to enhance usability and reproducibility.
+
