@@ -1,30 +1,43 @@
 ---
 slug: github-supreme-court-predictions
-title: Predictive Modeling of U.S. Supreme Court Decisions Using Machine Learning
+title: Predictive Modeling for U.S. Supreme Court Decisions
 repo: justin-napolitano/Supreme-Court-Predictions
 githubUrl: https://github.com/justin-napolitano/Supreme-Court-Predictions
 generatedAt: '2025-11-23T09:43:16.481226Z'
 source: github-auto
 summary: >-
-  Technical overview of machine learning models predicting U.S. Supreme Court case outcomes and
-  justice votes using the Segal and Spaeth dataset.
+  Explore a machine learning approach to predict U.S. Supreme Court outcomes
+  using historical data and TensorFlow.
 tags:
   - machine-learning
   - judicial-prediction
   - supreme-court
   - legal-analytics
-seoPrimaryKeyword: Supreme Court predictions
-seoSecondaryKeywords:
+  - tensorflow
   - machine learning
-  - judicial decision prediction
+  - data preprocessing
+  - judicial predictions
+  - SHAP
   - Segal and Spaeth dataset
+  - Keras
+  - data handling
+seoPrimaryKeyword: supreme court predictions
+seoSecondaryKeywords:
+  - predictive modeling
+  - judicial decision forecasting
+  - case outcome prediction
+  - justice vote prediction
+  - data-driven legal analysis
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post describes a machine learning project involving data processing, modeling, and
-  interpretability focused on predictive analysis of Supreme Court decisions, fitting well into the
-  'Datascience' family which covers data analysis projects and scientific workflows.
+  The post describes a machine learning project involving data processing,
+  modeling, and interpretability focused on predictive analysis of Supreme Court
+  decisions, fitting well into the 'Datascience' family which covers data
+  analysis projects and scientific workflows.
+kind: project
+id: github-supreme-court-predictions
 ---
 
 # Supreme Court Predictions: Technical Overview
