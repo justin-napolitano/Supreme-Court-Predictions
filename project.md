@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/Supreme-Court-Predictions
 generatedAt: '2025-11-24T21:36:33.634Z'
 source: github-auto
 summary: >-
-  Explore a Python project that predicts U.S. Supreme Court case outcomes using
-  machine learning and the Segal and Spaeth dataset.
+  Explore a Python project that predicts U.S. Supreme Court case outcomes using machine learning and
+  the Segal and Spaeth dataset.
 tags:
   - python
   - tensorflow
@@ -27,8 +27,8 @@ seoSecondaryKeywords:
   - data preprocessing
   - model interpretability
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -109,3 +109,4 @@ Supreme-Court-Predictions/
 ---
 
 *Note: This README assumes the presence of a `data` directory with appropriate CSV files and feature configuration files based on the code context.*
+
